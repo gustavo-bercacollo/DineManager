@@ -16,6 +16,7 @@ A API oferece as seguintes funcionalidades:
 - **Gerenciamento de Produtos (Products):**
   - Listar todos os produtos disponíveis.
   - Adicionar novos produtos ao sistema.
+  - Atualizar e remover um produto específico.
 
 - **Gerenciamento de Mesas (Tables):**
   - Criar sessões para mesas.
